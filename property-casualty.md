@@ -223,6 +223,32 @@
 * **Expenses** - expenses incurred in the investigation of a claim, including claims adjuster costs, expert witness fees, et cetera; reasonable expenses incurred by the insured at the company's request in the investigation or defense of a claim
 * **Defense Costs** - the cost of hiring an attorney to defend the insured if sued, even if the insured is not liable, paid in addition to the per occurrence or policy aggregate limits
 ---
+# Unit 6
+## Definitions
+    Homeowners Policy - called a package policy or multiline policy because it provides property and liability insurance in a single policy
+    Mortgage Clause - specifies the rights and duties of the mortgagee under the policy
+    Debris Removal - pays expenses to remove debris from the premises if caused by a covered peril
+    Reasonable Repairs - pays the reasonable costs incurred by the insured for repairs necessary to protect covered property from further loss after being damaged by a covered peril
+    Trees, Shrubs, and Other Plants - covers trees, shrubs, and plants on the residence premises for loss by fire, lightning, explosion, riot, aircraft, vehicles not owned or operated by a resident, theft, and V&MM
+    Fire Department Service Charge - pays up to $500 when the fire department is called to save or protect covered property from a covered peril
+    Property Removed - covers property against direct loss from any cause while it is being moved because the premises has been endangered by a covered peril
+    Credit Card, Electronic Fund Transfer Card or Access Device, Forgery and Counterfeit Money - pays up to $500 with no deductible for the insured's legal obligation to pay losses resulting from: theft, forgery, accepting counterfeit money
+    Loss Assessment - pays up to $1,000 for the insured's share of a loss assessment charged against the insured by the association of property owners as a result of direct loss to property owned by the association
+    Glass or Safety Glazing Material - covers the breakage of glass that is a part of a building, including windows and storm doors
+---
+## Forms/Types of Hommeowners Policies
+* **HO-2** - broad form; owner occupant
+* **HO-3** - special form; owner occupant
+* **HO-4** - tenants or renters
+* **HO-5** - comprehensive form; owner occupant
+* **HO-6** - condominium owners
+* **HO-8** - modified form for special risks
+## Coverages
+* **Coverage A** Dwelling - covers the dwelling and structures attached to the dwelling as well as materials and supplies for repair and construction of those structures if they are located on or next to the residence premises
+* **Coverage B** Other (Appurtenant) Structures - not included in the HO-4 renters policy; covers other structures on the residence premise that are separated by a clear space
+* **Coverage C** Personal Property - included in all HO policies; provides covverage for personal property owned or used by an insured while the property is anywhere in tthe world
+* **Coverage D** Loss of Use - included in all HO policies; provides three types of coverage
+---
 # Scattered Notes
 ## Disability
     5 day waiting period (how long off work)
