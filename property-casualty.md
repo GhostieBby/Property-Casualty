@@ -1,6 +1,5 @@
-## Property and Casualty
-### Definitions
-#### Unit 1
+# Unit 1
+## Definitions
     Risk - the possibility that a loss will occur
     Speculative risk- risks that have a possibility of a loss and also the possibility of gain
     Pure risk - risks that only involve the possibility of a loss, not a gain
@@ -55,7 +54,8 @@
     Fiduciary - person in a position of financia trust
     Commmingling - illegal act of mixing personal funds with the insured's or insurer's funds
     Sustainability Considerations - used by agent to make purchase recommendations that are appropriate, or suitable, in light of a client's particular needs, objectives, and circumstances
-#### Unit 2
+# Unit 2
+## Definitions
     CLOAC - elements of a legal cotract (considerations, legal purpose, offer, acceptance, competent parties)
     Consideration - money and statements made on application
     Legal Purpose - risk transfer doesn't violate the law
@@ -77,7 +77,8 @@
     Fraud - an intentional act designe to deceive and induce another party to part with something of value
     Waiver - the intentional and voluntary giving up of a known right
     Estoppel - once a right has been waived, it cannot be reinserted and used against the insured
-#### Unit 3
+# Unit 3
+## Definitions
     First Party Losses - when property insurance pays the insured for covered losses to the property
     Third Party Losses - casualty policies (liability insurance) protect an individual or business when it is found legally liable for negligent acts or omissions that cause injury or property damage to others; it pays the "other guy"
     Declarations - information relative to who, what, when, and where is found on the first page of the policy
@@ -135,7 +136,8 @@
     Customer - consumer who has an ongoing relationship with the financial institution
     Collected - GLBA considers information collected when it is organized or can be retrieved by an individual's name or by an identifying number, such as a policy number
     GLBA - Gramm-Leach-Bliley Act
-#### Unit 4
+# Unit 4
+## Definitions
     Real Property - permanent structures and buildings
     Personal Property - furniture, appliances, clothing, tools, and other moveable property
     Policy Limit - (aka Limit of Coverage, Limit of Liability, or Limit of Insurance) represent the maximum amount the insurance company will pay for a loss
@@ -172,7 +174,7 @@
     Bailee - a person or organization that has temporary possession of someone else's property
     No Benefit To Bailee - condition which states that the bailee is not covered under the property owner's policy while the bailee has possession of the property
 ---
-##### BIG AFFECT
+## BIG AFFECT
 * ***B*urglary Damage** - (see: Hamburglar)
 * ***I*ce** - ice, sleet, and snow (weight of)
 * ***G*lass Breakage** - (see: any movie directed by Michael Bay)
@@ -182,8 +184,7 @@
 * ***E*lectrical Current** - sudden and artificially generated electrical current (does not include damage to a tube, transistor, or similar electrical component)
 * ***C*ollapse**
 * ***T*earing Asunder** - sudden and accidental tearing apart, cracking, or burning of steam or hot-water heating, air-conditioning, or automatic fire protective sprinkler system and water heaters
----
-##### Basic Types of Construction
+## Basic Types of Construction
 * Class 1: **Frame** - have outside support walls, a roof, and floors constructed of wood or other combustible materials. The exterior walls may be covered with stucco or brick veneer
 * Class 2: **Joisted Masonry** - have outside support walls made of noncombustible masonry materials (concrete, brick, hollow concrete block, stone, or tile) and a roof and floor made of combustible materials (wood)
 * Class 3: **Noncombustible** - one whose exterior walls, floors, and roof are constructed of and supported by noncombustible materials such as metal, asbestos, or gypsum
@@ -191,7 +192,8 @@
 * Class 5: **Modified Fire Resistive** - exterior walls, floors, roof constructed of masonry or fire resistive material with a fire resistance rating of 2 hours or less
 * Class 6: **Fire Resistive** - constructed of masonry or fire resistive material with a fire resistance rating of 2 hours or more
 ---
-#### Unit 5
+# Unit 5
+## Definitions
     Third-Party Losses - occur when a person claims to have been injured by an insured, or when a person's property has been damaged by the insured's actions (see: Unit 3)
     Tort - a civil wrong that unfairly causes someone else to suffer loss or harm resulting in legal liability
     Negligence - failure to exercise the care that a reasonable person would exercise in like circumstances
@@ -213,7 +215,7 @@
     Property damage (PD) - damage to or destruction of property, including loss of use of the property
     Personal Injury (PI) - includes slander, libell, false arrest, and invasion of privacy (bodily is your physical, personal is your mental)
 ---
-##### Supplementary Payments (BAILED)
+## Supplementary Payments (BAILED)
 * **Bonds** - premiumms for certain types of bonds, such as bail bonds, appeal bonds, and release of attachmment bonds
 * **Aid** - first aid to others at the time of an accident
 * **Interest** - prejudgment interest is the interest on court-ordered payments, and postjudgment interest is the interest accruing on the judgment after an award has been made but before payment is made by the insurance company
@@ -221,11 +223,11 @@
 * **Expenses** - expenses incurred in the investigation of a claim, including claims adjuster costs, expert witness fees, et cetera; reasonable expenses incurred by the insured at the company's request in the investigation or defense of a claim
 * **Defense Costs** - the cost of hiring an attorney to defend the insured if sued, even if the insured is not liable, paid in addition to the per occurrence or policy aggregate limits
 ---
-### Scattered Notes
-#### Disability
+# Scattered Notes
+## Disability
     5 day waiting period (how long off work)
     66.66% or 2/3 of pay
     Paid a little over 8 years
     14 day retroactive period (on day 14, they go back and pay you for the first five days)
     Death benefit $5,000, Survivor benefit $1000
-#### Basic of Casualty
+## Basic of Casualty
